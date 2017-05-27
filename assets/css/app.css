@@ -1,0 +1,30 @@
+/*
+ * app.css
+ *
+ */
+
+header{
+	display: table !important;
+}
+
+#myApp {
+
+}
+
+#myApp ul {
+	list-style: none;
+}
+#myApp ul li {
+	float: left;
+	margin: 10px 20px;
+}
+#myApp ul li div {
+	text-align: center;
+}
+#myApp img {
+	width: 80px;
+	height: 80px;
+}
+#myApp img:hover {
+	cursor: pointer;
+}
